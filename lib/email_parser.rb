@@ -7,4 +7,6 @@ class EmailAddressParser
   
   attr_accessor ;:email
   
+  initialize(emails)
+  
 end
