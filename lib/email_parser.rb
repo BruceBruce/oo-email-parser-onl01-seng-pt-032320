@@ -11,4 +11,7 @@ class EmailAddressParser
     @email= emails
   end
   
+  def parse
+    
+  
 end
